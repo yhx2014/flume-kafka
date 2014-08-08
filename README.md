@@ -3,7 +3,7 @@ Since this plugin for flume is going to merge into flume, I've splited this plug
 Flume-ng Kafka
 ===========
 
-This project is used for [flume-ng](https://github.com/apache/flume) to communicate with [kafka 0.8.1](https://github.com/apache/kafka).
+This project is used for [flume-ng](https://github.com/apache/flume) to communicate with [kafka 2.8.0](https://github.com/apache/kafka).
 
 ”√kafka0.8.1
 
